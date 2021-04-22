@@ -1,0 +1,11 @@
+.bg-primary {
+    background-color: #ca11a2 !important;
+  }
+
+.bg-about {
+    background-color: #6711ca !important;
+  }
+
+section:nth-child(2n+1){
+    background-color: #e187f3;
+}
